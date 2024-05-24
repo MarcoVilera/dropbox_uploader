@@ -1,0 +1,7 @@
+{
+    "Folder": "C:\\Users\\Equipo\\Desktop\\directorio de prueba",
+    "DestinationFolder": "/Prueba",
+    "logDirectory": "./logs",
+    "logFileFormat":  { "logFile": "log_", "dateFormat": "d-m-Y", "timeFormat":"24H" },
+    "validExtensions": [".rar",".zip",".7z",".bak"]
+}
